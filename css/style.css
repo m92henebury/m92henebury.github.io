@@ -1,0 +1,116 @@
+body{
+  font-family: 'Arimo', sans-serif;
+}
+.container-fluid{
+  padding: 0px;
+}
+
+.navbar{
+  background-color:  #206040;
+  margin: 0px;
+
+}
+.navbar-brand  img{
+  width: 30px;
+  background-size: cover;
+  color: white;
+
+}
+navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #206040;
+    background-color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #206040;
+    background-color: #fff;
+}
+
+.jumbotron{
+  background-image: url(../img/jumbo1.jpg);
+  background-size: cover;
+  height: 800px;
+  margin: 0px;
+  padding: 0px;
+}
+.container-about{
+  height: 400px;
+  background-color: #206040;
+  color
+}
+
+.container-traits{
+  background-color:  #206040;
+  height: 300px;
+  text-align: center;
+  color: white;
+}
+.labels{
+  text-align: center;
+  font-size: 30px;
+
+}
+.icon{
+  color: white;
+  font-size: 120px;
+  padding-top: 10px;
+}
+.container-skills{
+  height: 400px;
+  background-color: black;
+  color: white;
+  font-size: 120px;
+  text-align: center;
+  padding: 20px;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+.skillz{
+  color: white;
+  padding: 20px;
+}
+.aboutt{
+  color: white;
+}
+.aboutz{
+  margin-top: 100px;
+}
+
+.portfolio{
+
+  height: ;
+  background-color:#fff ;
+  padding: 20px;
+
+}
+.port-img{
+  width: 600px;
+  height: 350px;
+  padding: 40px;
+  background-size: cover;
+
+}
+.port-img .4{
+
+}
+h1 {
+  padding: 5px;
+  margin: 0px;
+  text-align: center;
+  color: black;
+}
+.container-contact{
+  background-color: #206040;
+  text-align: center;
+  padding: ;
+}
+h3{
+  text-align: center;
+}
+.social{
+  text-align: center;
+  font-size: 30px;
+  color: #206040;
+}
