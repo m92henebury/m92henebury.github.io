@@ -32,16 +32,17 @@ navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
   height: 800px;
   margin: 0px;
   padding: 0px;
+  background-position: center;
 }
 .container-about{
-  height: 400px;
+  height: ;
   background-color: #206040;
   color
 }
 
 .container-traits{
   background-color:  #206040;
-  height: 300px;
+  height: ;
   text-align: center;
   color: white;
 }
@@ -87,9 +88,9 @@ h2{
 }
 .port-img{
   width: 600px;
-  height: 350px;
   padding: 40px;
   background-size: cover;
+  background-position: center;
 
 }
 .port-img .4{
